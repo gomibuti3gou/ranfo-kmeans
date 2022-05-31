@@ -1,0 +1,1 @@
+g++ -O3 -Wall -shared -std=c++11 -fPIC `python3 -m pybind11 --includes` KMeans.cpp -o MyModule`python3-config --extension-suffix`
