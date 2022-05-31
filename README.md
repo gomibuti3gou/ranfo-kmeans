@@ -22,3 +22,13 @@ KMeans-PY
 rf-my.cpp
 <br>
  -ランダムフォレスト（回帰）を実装した。
+ 
+ <br>
+ <br>
+参考文献
+<br>
+https://www.albert2005.co.jp/knowledge/data_mining/cluster/non-hierarchical_clustering
+<br>
+https://scikit-learn.org/stable/
+<br>
+https://qiita.com/roki18d/items/1c5633beb80a5c2d58e7
